@@ -115,11 +115,6 @@
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-<br><strong>React</strong>
-<br><sub>Advanced</sub>
-</td>
-<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/>
 <br><strong>Vue.js</strong>
 <br><sub>Intermediate</sub>
@@ -128,11 +123,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
 <br><strong>Node.js</strong>
 <br><sub>Intermediate</sub>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<br><strong>Git</strong>
-<br><sub>Advanced</sub>
 </td>
 </tr>
 </table>
