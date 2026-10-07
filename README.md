@@ -178,9 +178,6 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Natthaphon123A&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-
 </div>
 
 ---
@@ -196,16 +193,7 @@
 
 <div align="center">
 
-## 🎯 Current Focus
 
-<p align="center">
-🔭 Working on: Full-Stack Web Applications<br>
-🌱 Learning: Advanced React Patterns, Vue.js & Node.js<br>
-👯 Looking to collaborate on: Open Source Projects<br>
-💬 Ask me about: JavaScript, Python, Vue.js, Web Development<br>
-📫 How to reach me: jackie.1g0g@gmail.com<br>
-⚡ Fun fact: I debug with console.log() and I'm proud of it!
-</p>
 
 </div>
 
