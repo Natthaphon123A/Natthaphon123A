@@ -170,30 +170,11 @@
 </td>
 </tr>
 </table>
-
-### 📈 Weekly Coding Activity
-<p align="center">
-<img src="https://img.shields.io/badge/Monday-██████████-brightgreen?style=flat-square" alt="Monday"/>
-<img src="https://img.shields.io/badge/Tuesday-████████░░-yellow?style=flat-square" alt="Tuesday"/>
-<img src="https://img.shields.io/badge/Wednesday-██████████-brightgreen?style=flat-square" alt="Wednesday"/>
-<img src="https://img.shields.io/badge/Thursday-██████░░░░-orange?style=flat-square" alt="Thursday"/>
-<img src="https://img.shields.io/badge/Friday-████████░░-yellow?style=flat-square" alt="Friday"/>
-<img src="https://img.shields.io/badge/Saturday-████░░░░░░-red?style=flat-square" alt="Saturday"/>
-<img src="https://img.shields.io/badge/Sunday-██░░░░░░░░-lightgrey?style=flat-square" alt="Sunday"/>
-</p>
-
 </div>
 
 ---
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Natthaphon123A&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <div align="center">
 
